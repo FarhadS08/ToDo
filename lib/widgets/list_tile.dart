@@ -1,10 +1,7 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:list_manipulation/services/firestore.dart';
 import 'package:provider/provider.dart';
 
-import '../models/list.dart';
 
 class CustomTile extends StatefulWidget {
   final String userId;
