@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974503162023",
+    "project_id": "listmanipulation-a5564",
+    "storage_bucket": "listmanipulation-a5564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974503162023:android:77f7517c26232ec8976b82",
+        "android_client_info": {
+          "package_name": "com.example.list_manipulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974503162023-6otu6p1v1prkkj52d6fmfolte5ra112q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkS3orJ--QirkcM9IV08Z0pBw-BYVZHHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974503162023-6otu6p1v1prkkj52d6fmfolte5ra112q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
