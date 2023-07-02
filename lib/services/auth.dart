@@ -64,7 +64,7 @@ class Auth extends ChangeNotifier {
 
   // Sign Out User
   Future<void> signOut() async {
-    _auth.signOut();
+    await _auth.signOut();
     notifyListeners();
   }
 
